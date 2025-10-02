@@ -1,5 +1,4 @@
 # Educational-Initiative-Assignment
-# Educational Initiative Assignment
 
 This repository contains Java implementations of exercises based on Object-Oriented Programming (OOP) and Software Design Patterns.  
 The focus is on showcasing **clean code, SOLID principles, and design pattern usage** for placement evaluation.  
